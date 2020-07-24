@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793964273742",
+    "firebase_url": "https://messeges-ce26c.firebaseio.com",
+    "project_id": "messeges-ce26c",
+    "storage_bucket": "messeges-ce26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793964273742:android:db62da9a027e0e08df631f",
+        "android_client_info": {
+          "package_name": "com.avijit.messeges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793964273742-bbea5v6i7ur05b8if92fdkgi15skkrfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBO283ACVQ-1G5KvVXfN37zCfssvUp-CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793964273742-bbea5v6i7ur05b8if92fdkgi15skkrfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
